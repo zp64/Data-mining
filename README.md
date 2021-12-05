@@ -3,7 +3,7 @@ CNN-RNN Assignment
 
 The text oriented questions are answered in RNN.ipynb
 
-Here I have implemeted Fashion MNIST Classification using  Pytouch framework
+Here I have implemeted Fashion MNIST Classification using  Pytorch framework
 
 Links of google colab :
 1. https://colab.research.google.com/drive/1b_x5CEQvRViRT5KusEGG8HZjrVgHxkfz#scrollTo=Vt1IDdCJoarZ
